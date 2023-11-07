@@ -1,0 +1,22 @@
+{
+  "name": "cypressbdd",
+  "version": "1.0.0",
+  "description": "This for Cypress BDD testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/likesmoothies/CypressBDD.git"
+  },
+  "author": "Andi Khaerul Awwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/likesmoothies/CypressBDD/issues"
+  },
+  "homepage": "https://github.com/likesmoothies/CypressBDD#readme",
+  "dependencies": {
+    "cypress": "^13.4.0"
+  }
+}
